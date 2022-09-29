@@ -1,0 +1,3645 @@
+{
+  "ProjectName": "SCYTHE (SFX).veg",
+  "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\SCYTHE (SFX).veg",
+  "Width": 1920,
+  "Height": 1080,
+  "PixelAspectRatio": 1.0,
+  "FrameRate": 24.0,
+  "Length": "00:01:41,18",
+  "Tracks": [
+    {
+      "Name": null,
+      "MediaType": "Video",
+      "MediaElements": [
+        {
+          "Velocity": {
+            "VelocityPoints": null
+          },
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:00:00,00",
+          "Length": "00:01:38,04"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Video",
+      "MediaElements": [
+        {
+          "Velocity": {
+            "VelocityPoints": [
+              {
+                "Timecode": "00:00:00,00",
+                "Value": 1.0
+              },
+              {
+                "Timecode": "00:00:02,03",
+                "Value": 0.45
+              },
+              {
+                "Timecode": "00:00:04,17",
+                "Value": 0.17
+              },
+              {
+                "Timecode": "00:00:07,21",
+                "Value": 0.72
+              }
+            ]
+          },
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:00:00,00",
+          "Length": "00:00:10,01"
+        },
+        {
+          "Velocity": {
+            "VelocityPoints": [
+              {
+                "Timecode": "00:00:00,00",
+                "Value": 1.0
+              },
+              {
+                "Timecode": "00:00:01,16",
+                "Value": 0.66
+              },
+              {
+                "Timecode": "00:00:03,06",
+                "Value": -0.1
+              },
+              {
+                "Timecode": "00:00:05,08",
+                "Value": 0.72
+              }
+            ]
+          },
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:00:10,01",
+          "Length": "00:00:06,02"
+        },
+        {
+          "Velocity": {
+            "VelocityPoints": [
+              {
+                "Timecode": "00:00:00,00",
+                "Value": 1.0
+              },
+              {
+                "Timecode": "00:00:03,08",
+                "Value": 0.45
+              },
+              {
+                "Timecode": "00:00:06,09",
+                "Value": -0.17
+              },
+              {
+                "Timecode": "00:00:10,04",
+                "Value": 1.0
+              }
+            ]
+          },
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:00:16,03",
+          "Length": "00:00:11,10"
+        },
+        {
+          "Velocity": {
+            "VelocityPoints": [
+              {
+                "Timecode": "00:00:00,00",
+                "Value": 1.0
+              },
+              {
+                "Timecode": "00:00:02,10",
+                "Value": -0.1
+              },
+              {
+                "Timecode": "00:00:06,22",
+                "Value": 1.0
+              },
+              {
+                "Timecode": "00:00:09,21",
+                "Value": 1.48
+              }
+            ]
+          },
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:00:27,13",
+          "Length": "00:00:12,02"
+        },
+        {
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:00:39,15",
+          "Length": "00:00:13,06"
+        },
+        {
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:00:52,21",
+          "Length": "00:00:13,00"
+        },
+        {
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:01:05,21",
+          "Length": "00:00:08,00"
+        },
+        {
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:01:13,21",
+          "Length": "00:00:03,22"
+        },
+        {
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:01:17,19",
+          "Length": "00:00:07,17"
+        },
+        {
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:01:25,12",
+          "Length": "00:00:06,02"
+        },
+        {
+          "Name": "normal",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\CLIPS\\3k awp mirage\\pov 1\\normal.avi",
+          "Start": "00:01:31,14",
+          "Length": "00:00:06,14"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Volume": 100.0,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:00,00",
+          "Length": "00:00:07,23"
+        },
+        {
+          "Volume": 50.82,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:07,17",
+          "Length": "00:00:01,02"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:08,18",
+          "Length": "00:00:04,13"
+        },
+        {
+          "Volume": 70.49,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:12,20",
+          "Length": "00:00:02,13"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:14,19",
+          "Length": "00:00:07,11"
+        },
+        {
+          "Volume": 57.379999999999995,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:21,23",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:22,09",
+          "Length": "00:00:04,21"
+        },
+        {
+          "Volume": 70.49,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:26,17",
+          "Length": "00:00:01,01"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:27,10",
+          "Length": "00:00:04,13"
+        },
+        {
+          "Volume": 68.85,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:31,17",
+          "Length": "00:00:01,02"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:32,13",
+          "Length": "00:00:01,10"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:33,21",
+          "Length": "00:00:01,01"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:34,19",
+          "Length": "00:00:02,02"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:36,02",
+          "Length": "00:00:01,08"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:36,23",
+          "Length": "00:00:02,16"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:38,20",
+          "Length": "00:00:01,09"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:39,21",
+          "Length": "00:00:05,04"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:43,11",
+          "Length": "00:00:02,14"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:00:45,03",
+          "Length": "00:00:16,09"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:01:01,00",
+          "Length": "00:00:01,04"
+        },
+        {
+          "Name": "SONG",
+          "FilePath": "D:\\MovieMaking\\#My projects\\ANOTHER LIFE\\SONG.wav",
+          "Start": "00:01:01,20",
+          "Length": "00:00:39,22"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Volume": 14.75,
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:01,15",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Volume": 24.59,
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:02,13",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Volume": 14.75,
+          "Name": "start cine",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\kriZe_4k_granade_ak47_inferno\\start cine\\start cine.wav",
+          "Start": "00:00:03,01",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Volume": 24.59,
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:04,17",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Volume": 18.029999999999998,
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:00:05,09",
+          "Length": "00:00:00,20"
+        },
+        {
+          "Volume": 34.43,
+          "Name": "he_bounce-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\hegrenade\\he_bounce-1.wav",
+          "Start": "00:00:07,05",
+          "Length": "00:00:02,02"
+        },
+        {
+          "Volume": 37.7,
+          "Name": "death3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\death3.wav",
+          "Start": "00:00:12,21",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Volume": 37.7,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:14,07",
+          "Length": "00:00:01,20"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "bwr t run cine 1",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\bwR_4k_awp_ overpass\\t run cine\\bwr t run cine 1.wav",
+          "Start": "00:00:18,16",
+          "Length": "00:00:01,10"
+        },
+        {
+          "Volume": 81.97,
+          "Name": "ct run cine bwR",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\bwR_4k_awp_ overpass\\ct run cine\\ct run cine bwR.wav",
+          "Start": "00:00:20,11",
+          "Length": "00:00:00,17"
+        },
+        {
+          "Volume": 62.3,
+          "Name": "ct run cine bwR",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\bwR_4k_awp_ overpass\\ct run cine\\ct run cine bwR.wav",
+          "Start": "00:00:20,22",
+          "Length": "00:00:00,16"
+        },
+        {
+          "Volume": 70.49,
+          "Name": "zoom",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\zoom.wav",
+          "Start": "00:00:22,03",
+          "Length": "00:00:00,16"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "zoom",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\zoom.wav",
+          "Start": "00:00:23,23",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "zoom",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\zoom.wav",
+          "Start": "00:00:25,22",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Volume": 83.61,
+          "Name": "zoom",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\zoom.wav",
+          "Start": "00:00:27,08",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Volume": 50.41,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:29,21",
+          "Length": "00:00:01,18"
+        },
+        {
+          "Volume": 44.26,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:31,17",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Volume": 44.26,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:32,15",
+          "Length": "00:00:01,04"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:33,21",
+          "Length": "00:00:00,19"
+        },
+        {
+          "Name": "kevlar1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\kevlar1.wav",
+          "Start": "00:00:34,17",
+          "Length": "00:00:00,06"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:00:34,23",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:37,04",
+          "Length": "00:00:02,03"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:40,22",
+          "Length": "00:00:03,05"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:48,07",
+          "Length": "00:00:01,07"
+        },
+        {
+          "Name": "mac10_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\mac10\\mac10_01.wav",
+          "Start": "00:00:49,21",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Name": "mac10_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\mac10\\mac10_01.wav",
+          "Start": "00:00:50,23",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:52,11",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:53,06",
+          "Length": "00:00:01,01"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:55,17",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:56,14",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:59,09",
+          "Length": "00:00:01,01"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:01:00,13",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:01:02,01",
+          "Length": "00:00:01,19"
+        },
+        {
+          "Name": "inc_grenade_detonate_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\incgrenade\\inc_grenade_detonate_1.wav",
+          "Start": "00:01:04,22",
+          "Length": "00:00:02,10"
+        },
+        {
+          "Name": "ak47_01.wav - subclip 1 (reversed)",
+          "FilePath": "ak47_01.wav - subclip 1 (reversed)",
+          "Start": "00:01:17,19",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:01:19,20",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:01:20,08",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:01:20,23",
+          "Length": "00:00:00,09"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:01:23,00",
+          "Length": "00:00:00,09"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:25,05",
+          "Length": "00:00:02,01"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:01:31,14",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:01:32,02",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:01:32,22",
+          "Length": "00:00:01,03"
+        },
+        {
+          "Name": "c4_beep3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\c4\\c4_beep3.wav",
+          "Start": "00:01:35,13",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "woosh_3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\woosh_3.wav",
+          "Start": "00:01:37,11",
+          "Length": "00:00:03,10"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Volume": 14.75,
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:00:01,23",
+          "Length": "00:00:00,17"
+        },
+        {
+          "Volume": 24.59,
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:00:02,19",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Volume": 24.59,
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:03,12",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Volume": 52.459999999999994,
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:04,12",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Volume": 18.029999999999998,
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:05,15",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Volume": 36.07,
+          "Name": "explode4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\hegrenade\\explode4.wav",
+          "Start": "00:00:07,21",
+          "Length": "00:00:03,20"
+        },
+        {
+          "Volume": 29.509999999999998,
+          "Name": "kevlar2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\kevlar2.wav",
+          "Start": "00:00:13,05",
+          "Length": "00:00:00,08"
+        },
+        {
+          "Volume": 34.43,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:13,18",
+          "Length": "00:00:02,11"
+        },
+        {
+          "Volume": 78.69,
+          "Name": "bwr t run cine 2",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\bwR_4k_awp_ overpass\\t run cine 2\\bwr t run cine 2.wav",
+          "Start": "00:00:19,17",
+          "Length": "00:00:01,03"
+        },
+        {
+          "Volume": 50.82,
+          "Name": "zoom",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\zoom.wav",
+          "Start": "00:00:21,08",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Volume": 57.379999999999995,
+          "Name": "awp_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_01.wav",
+          "Start": "00:00:22,12",
+          "Length": "00:00:05,09"
+        },
+        {
+          "Volume": 51.139999999999993,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:30,00",
+          "Length": "00:00:01,17"
+        },
+        {
+          "Volume": 44.26,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:31,19",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Volume": 44.26,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:32,18",
+          "Length": "00:00:01,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:34,00",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:00:34,23",
+          "Length": "00:00:00,17"
+        },
+        {
+          "Name": "ancient goNext ct cine 1",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\CND_4k_glock_ancient_goNext\\ct cine 1\\ancient goNext ct cine 1.wav",
+          "Start": "00:00:35,12",
+          "Length": "00:00:01,06"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:37,08",
+          "Length": "00:00:02,11"
+        },
+        {
+          "Name": "BLOODY3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\SFX\\BLOODY3.wav",
+          "Start": "00:00:40,23",
+          "Length": "00:00:01,15"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:48,07",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:48,10",
+          "Length": "00:00:01,08"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:49,21",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "mac10_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\mac10\\mac10_01.wav",
+          "Start": "00:00:49,23",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "mac10_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\mac10\\mac10_01.wav",
+          "Start": "00:00:51,05",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:52,11",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:52,14",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:53,12",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:00:56,00",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:59,09",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:59,13",
+          "Length": "00:00:01,02"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:01:00,20",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:02,01",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:01:02,04",
+          "Length": "00:00:01,20"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:01:04,17",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:01:05,09",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "m4a1_clipin",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_clipin.wav",
+          "Start": "00:01:05,21",
+          "Length": "00:00:00,07"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:01:06,09",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:01:11,14",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:01:12,00",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:16,06",
+          "Length": "00:00:01,14"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:18,07",
+          "Length": "00:00:01,15"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:01:20,03",
+          "Length": "00:00:00,09"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:01:20,16",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:01:21,04",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:01:22,21",
+          "Length": "00:00:00,07"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:01:23,05",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:25,12",
+          "Length": "00:00:02,01"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:01:31,21",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:32,20",
+          "Length": "00:00:02,01"
+        },
+        {
+          "Name": "weapon_impact_hard1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\physics\\metal\\weapon_impact_hard1.wav",
+          "Start": "00:01:36,00",
+          "Length": "00:00:00,12"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Volume": 24.59,
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:02,07",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Volume": 24.59,
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:00:03,04",
+          "Length": "00:00:00,20"
+        },
+        {
+          "Volume": 42.620000000000005,
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:04,02",
+          "Length": "00:00:00,16"
+        },
+        {
+          "Volume": 24.59,
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:00:05,02",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Volume": 14.75,
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:05,23",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Volume": 95.08,
+          "Name": "explode4.wav - subclip 1 (reversed)",
+          "FilePath": "explode4.wav - subclip 1 (reversed)",
+          "Start": "00:00:07,14",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Volume": 29.509999999999998,
+          "Name": "kevlar1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\kevlar1.wav",
+          "Start": "00:00:12,16",
+          "Length": "00:00:00,08"
+        },
+        {
+          "Volume": 27.87,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:13,04",
+          "Length": "00:00:01,19"
+        },
+        {
+          "Volume": 37.7,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:14,23",
+          "Length": "00:00:01,18"
+        },
+        {
+          "Volume": 100.0,
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:21,18",
+          "Length": "00:00:01,02"
+        },
+        {
+          "Volume": 60.660000000000004,
+          "Name": "awp_boltforward",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_boltforward.wav",
+          "Start": "00:00:23,05",
+          "Length": "00:00:00,07"
+        },
+        {
+          "Volume": 60.660000000000004,
+          "Name": "awp_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_01.wav",
+          "Start": "00:00:24,08",
+          "Length": "00:00:04,15"
+        },
+        {
+          "Volume": 19.67,
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:30,00",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Volume": 57.379999999999995,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:30,03",
+          "Length": "00:00:01,16"
+        },
+        {
+          "Volume": 44.26,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:31,21",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Volume": 60.660000000000004,
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:32,21",
+          "Length": "00:00:01,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:34,04",
+          "Length": "00:00:01,04"
+        },
+        {
+          "Name": "ancient ct cine 2",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\CND_4k_glock_ancient_goNext\\ct cine 2\\ancient ct cine 2.wav",
+          "Start": "00:00:36,07",
+          "Length": "00:00:01,08"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:37,15",
+          "Length": "00:00:02,16"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:41,12",
+          "Length": "00:00:05,09"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:48,10",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:48,13",
+          "Length": "00:00:01,08"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:49,23",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "mac10_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\mac10\\mac10_01.wav",
+          "Start": "00:00:50,02",
+          "Length": "00:00:01,22"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:52,15",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:52,18",
+          "Length": "00:00:00,13"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:53,16",
+          "Length": "00:00:01,02"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:00:56,06",
+          "Length": "00:00:00,17"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:57,13",
+          "Length": "00:00:01,04"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:59,13",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:59,21",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:01:01,00",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:02,04",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:01:02,08",
+          "Length": "00:00:01,21"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:01:05,00",
+          "Length": "00:00:00,09"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:01:05,14",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:01:06,02",
+          "Length": "00:00:00,07"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:01:06,14",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:01:11,18",
+          "Length": "00:00:00,09"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:01:12,04",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:16,06",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:16,09",
+          "Length": "00:00:01,18"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:18,07",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:18,10",
+          "Length": "00:00:01,16"
+        },
+        {
+          "Name": "ak47_draw",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_draw.wav",
+          "Start": "00:01:21,05",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:25,19",
+          "Length": "00:00:02,00"
+        },
+        {
+          "Name": "kevlar1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\kevlar1.wav",
+          "Start": "00:01:35,11",
+          "Length": "00:00:00,06"
+        },
+        {
+          "Name": "jumplanding4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding4.wav",
+          "Start": "00:01:35,18",
+          "Length": "00:00:00,16"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "krize pov",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\kriZe_4k_granade_ak47_inferno\\pov\\krize pov.wav",
+          "Start": "00:00:01,00",
+          "Length": "00:00:02,18"
+        },
+        {
+          "Name": "krize pov",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\kriZe_4k_granade_ak47_inferno\\pov\\krize pov.wav",
+          "Start": "00:00:04,12",
+          "Length": "00:00:01,23"
+        },
+        {
+          "Name": "krize pov",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\kriZe_4k_granade_ak47_inferno\\pov\\krize pov.wav",
+          "Start": "00:00:05,20",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "krize pov",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\kriZe_4k_granade_ak47_inferno\\pov\\krize pov.wav",
+          "Start": "00:00:06,13",
+          "Length": "00:00:01,08"
+        },
+        {
+          "Name": "krize pov",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\kriZe_4k_granade_ak47_inferno\\pov\\krize pov.wav",
+          "Start": "00:00:08,02",
+          "Length": "00:00:01,23"
+        },
+        {
+          "Name": "krize pov",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\kriZe_4k_granade_ak47_inferno\\pov\\krize pov.wav",
+          "Start": "00:00:09,17",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:12,00",
+          "Length": "00:00:01,23"
+        },
+        {
+          "Name": "vox_pm1_pain_death_003",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\death voices\\vox_pm1_pain_death_003.mp3",
+          "Start": "00:00:17,01",
+          "Length": "00:00:01,07"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:00:21,23",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "awp_boltback",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_boltback.wav",
+          "Start": "00:00:22,20",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "jumplanding",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding.wav",
+          "Start": "00:00:25,10",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "awp_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_01.wav",
+          "Start": "00:00:26,04",
+          "Length": "00:00:03,21"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:30,03",
+          "Length": "00:00:01,04"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:32,00",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:34,09",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:38,00",
+          "Length": "00:00:02,01"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:43,16",
+          "Length": "00:00:00,20"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:44,18",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:48,13",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:50,02",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "mac10_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\mac10\\mac10_01.wav",
+          "Start": "00:00:50,06",
+          "Length": "00:00:02,06"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:52,18",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:00:53,08",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:53,21",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:54,17",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:56,19",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:57,21",
+          "Length": "00:00:01,16"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:59,21",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:01:00,03",
+          "Length": "00:00:02,01"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:02,08",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:01:02,12",
+          "Length": "00:00:02,00"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,00",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:08,15",
+          "Length": "00:00:01,17"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:10,12",
+          "Length": "00:00:01,16"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:12,10",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:14,06",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:16,09",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:16,13",
+          "Length": "00:00:01,17"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:18,11",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:18,14",
+          "Length": "00:00:02,05"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:23,08",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "kevlar1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\kevlar1.wav",
+          "Start": "00:01:25,07",
+          "Length": "00:00:00,06"
+        },
+        {
+          "Name": "kevlar2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\kevlar2.wav",
+          "Start": "00:01:25,13",
+          "Length": "00:00:00,08"
+        },
+        {
+          "Name": "wood1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\wood1.wav",
+          "Start": "00:01:26,10",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "wood3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\wood3.wav",
+          "Start": "00:01:27,01",
+          "Length": "00:00:01,04"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:33,02",
+          "Length": "00:00:01,17"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:35,09",
+          "Length": "00:00:02,07"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "krize pov",
+          "FilePath": "D:\\MovieMaking\\#My projects\\#ORDERS\\SCYTHE (client Sphinx)\\CLIPS\\kriZe_4k_granade_ak47_inferno\\pov\\krize pov.wav",
+          "Start": "00:00:02,13",
+          "Length": "00:00:02,06"
+        },
+        {
+          "Name": "vox_st0_pain_death_002",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\death voices\\vox_st0_pain_death_002.mp3",
+          "Start": "00:00:07,17",
+          "Length": "00:00:01,14"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:10,08",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:11,17",
+          "Length": "00:00:01,23"
+        },
+        {
+          "Name": "fire_ignite_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\molotov\\fire_ignite_1.wav",
+          "Start": "00:00:13,16",
+          "Length": "00:00:02,13"
+        },
+        {
+          "Name": "BLOODY3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\SFX\\BLOODY3.wav",
+          "Start": "00:00:17,01",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:23,00",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "awp_boltback",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_boltback.wav",
+          "Start": "00:00:24,20",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "weapon_impact_hard1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\physics\\metal\\weapon_impact_hard1.wav",
+          "Start": "00:00:25,18",
+          "Length": "00:00:00,20"
+        },
+        {
+          "Name": "awp_boltforward",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_boltforward.wav",
+          "Start": "00:00:26,23",
+          "Length": "00:00:00,07"
+        },
+        {
+          "Name": "awp_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_01.wav",
+          "Start": "00:00:27,13",
+          "Length": "00:00:04,03"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:32,00",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:32,03",
+          "Length": "00:00:01,14"
+        },
+        {
+          "Name": "jumplanding4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding4.wav",
+          "Start": "00:00:35,08",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:00:37,09",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:38,04",
+          "Length": "00:00:02,09"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:43,16",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:43,19",
+          "Length": "00:00:00,17"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:44,18",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:44,21",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:00:48,18",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:50,06",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "mac10_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\mac10\\mac10_01.wav",
+          "Start": "00:00:50,10",
+          "Length": "00:00:01,23"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:00:52,12",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:53,23",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:54,17",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:54,19",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:56,21",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:00,03",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:02,12",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:01:02,17",
+          "Length": "00:00:02,19"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,00",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,02",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:08,21",
+          "Length": "00:00:01,09"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:10,12",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:10,15",
+          "Length": "00:00:01,19"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:12,11",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:12,13",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:14,06",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:14,09",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:16,14",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:16,18",
+          "Length": "00:00:01,18"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:18,14",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:18,18",
+          "Length": "00:00:02,02"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:23,08",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:23,10",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "jumplanding4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding4.wav",
+          "Start": "00:01:25,18",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "wood2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\wood2.wav",
+          "Start": "00:01:26,17",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:33,02",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:33,05",
+          "Length": "00:00:01,16"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:35,16",
+          "Length": "00:00:02,12"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:43,19",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:43,22",
+          "Length": "00:00:00,20"
+        },
+        {
+          "Name": "woosh_3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\woosh_3.wav",
+          "Start": "00:00:58,16",
+          "Length": "00:00:03,10"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:02,17",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,02",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,04",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:09,05",
+          "Length": "00:00:01,07"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:10,16",
+          "Length": "00:00:00,06"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:10,22",
+          "Length": "00:00:01,14"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:12,14",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:12,16",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:14,09",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:14,12",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:16,19",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:18,19",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:18,23",
+          "Length": "00:00:02,13"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:23,10",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:23,12",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:28,13",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:29,00",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:30,09",
+          "Length": "00:00:00,13"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:33,05",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:33,09",
+          "Length": "00:00:01,18"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:36,00",
+          "Length": "00:00:02,23"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:09,00",
+          "Length": "00:00:00,17"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:00:10,00",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:10,18",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:11,13",
+          "Length": "00:00:03,13"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:00:15,13",
+          "Length": "00:00:01,10"
+        },
+        {
+          "Name": "kevlar3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\kevlar3.wav",
+          "Start": "00:00:17,00",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "jumplanding",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding.wav",
+          "Start": "00:00:17,19",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Name": "WOOSH2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH2.wav",
+          "Start": "00:00:21,14",
+          "Length": "00:00:02,01"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:25,01",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "awp_boltback",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\awp\\awp_boltback.wav",
+          "Start": "00:00:26,14",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:27,13",
+          "Length": "00:00:01,10"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:32,03",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Name": "jumplanding4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding4.wav",
+          "Start": "00:00:33,09",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:38,09",
+          "Length": "00:00:03,00"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:44,21",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:45,00",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:50,10",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "inc_grenade_detonate_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\incgrenade\\inc_grenade_detonate_1.wav",
+          "Start": "00:00:51,12",
+          "Length": "00:00:02,10"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:53,23",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:54,01",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:54,19",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:54,22",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:57,00",
+          "Length": "00:00:01,00"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,04",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,06",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:10,22",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:11,01",
+          "Length": "00:00:01,14"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:12,17",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:12,21",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:14,13",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:14,16",
+          "Length": "00:00:01,16"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:01:18,08",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:19,09",
+          "Length": "00:00:03,13"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:23,12",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:23,15",
+          "Length": "00:00:01,15"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:28,13",
+          "Length": "00:00:00,01"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:28,15",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:29,03",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:30,09",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:30,18",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:31,11",
+          "Length": "00:00:00,13"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:33,10",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:34,11",
+          "Length": "00:00:01,13"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:08,14",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:09,11",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:11,10",
+          "Length": "00:00:01,23"
+        },
+        {
+          "Name": "jumplanding4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding4.wav",
+          "Start": "00:00:13,22",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:15,06",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:16,07",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Name": "weapon_impact_hard1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\physics\\metal\\weapon_impact_hard1.wav",
+          "Start": "00:00:17,22",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:00:23,15",
+          "Length": "00:00:03,01"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:26,17",
+          "Length": "00:00:00,13"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:00:30,18",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:00:31,07",
+          "Length": "00:00:00,20"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:00:38,04",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:38,19",
+          "Length": "00:00:02,03"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:43,22",
+          "Length": "00:00:00,06"
+        },
+        {
+          "Name": "jumplanding",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding.wav",
+          "Start": "00:00:44,05",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:45,00",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:45,03",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "inc_grenade_bounce-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\incgrenade\\inc_grenade_bounce-1.wav",
+          "Start": "00:00:50,21",
+          "Length": "00:00:01,05"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:54,01",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:54,03",
+          "Length": "00:00:00,16"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:54,22",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:55,01",
+          "Length": "00:00:00,19"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:57,05",
+          "Length": "00:00:01,00"
+        },
+        {
+          "Name": "SWISH",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\SWISH.wav",
+          "Start": "00:01:01,04",
+          "Length": "00:00:03,10"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,07",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,09",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:11,01",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:11,04",
+          "Length": "00:00:01,16"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:12,22",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:13,02",
+          "Length": "00:00:01,14"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:14,16",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:14,20",
+          "Length": "00:00:01,20"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:01:18,08",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:01:19,00",
+          "Length": "00:00:00,17"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:19,18",
+          "Length": "00:00:03,20"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:23,15",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:23,18",
+          "Length": "00:00:01,18"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:28,15",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:28,17",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:29,07",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:30,18",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:30,20",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:31,11",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:34,11",
+          "Length": "00:00:00,01"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:34,14",
+          "Length": "00:00:01,14"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "WOOSH2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH2.wav",
+          "Start": "00:00:05,12",
+          "Length": "00:00:01,16"
+        },
+        {
+          "Name": "WOOSH2.wav - subclip 1 (reversed)",
+          "FilePath": "WOOSH2.wav - subclip 1 (reversed)",
+          "Start": "00:00:06,20",
+          "Length": "00:00:01,01"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:12,10",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:15,10",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:16,10",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Name": "SWISH",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\SWISH.wav",
+          "Start": "00:00:26,00",
+          "Length": "00:00:01,15"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:00:31,00",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:31,12",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:38,23",
+          "Length": "00:00:01,21"
+        },
+        {
+          "Name": "concrete1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete1.wav",
+          "Start": "00:00:42,19",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:00:43,17",
+          "Length": "00:00:00,17"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:45,03",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:45,06",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "ric3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\fx\\rics\\ric3.wav",
+          "Start": "00:00:51,00",
+          "Length": "00:00:01,20"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:54,03",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:54,06",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:55,01",
+          "Length": "00:00:00,06"
+        },
+        {
+          "Name": "jumplanding4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding4.wav",
+          "Start": "00:00:57,16",
+          "Length": "00:00:01,00"
+        },
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:01:01,04",
+          "Length": "00:00:03,07"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,10",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,13",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:11,05",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:11,08",
+          "Length": "00:00:01,17"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:13,02",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:14,20",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:01:19,00",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:23,18",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:24,07",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:28,17",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:28,19",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:30,20",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:30,22",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:34,14",
+          "Length": "00:00:00,01"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:34,19",
+          "Length": "00:00:01,13"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:00:11,13",
+          "Length": "00:00:01,00"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:12,21",
+          "Length": "00:00:02,10"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:15,13",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:16,15",
+          "Length": "00:00:00,22"
+        },
+        {
+          "Name": "awp_01.wav - subclip 1 (reversed)",
+          "FilePath": "awp_01.wav - subclip 1 (reversed)",
+          "Start": "00:00:26,15",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:30,13",
+          "Length": "00:00:00,19"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:38,23",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:39,03",
+          "Length": "00:00:02,05"
+        },
+        {
+          "Name": "concrete3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete3.wav",
+          "Start": "00:00:43,02",
+          "Length": "00:00:00,20"
+        },
+        {
+          "Name": "neck_snap_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\neck_snap_01.wav",
+          "Start": "00:00:44,06",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:45,07",
+          "Length": "00:00:00,08"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:45,15",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "bulletltor01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\fx\\nearmiss\\bulletltor01.wav",
+          "Start": "00:00:50,21",
+          "Length": "00:00:00,08"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:54,06",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:54,09",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:01:02,04",
+          "Length": "00:00:01,03"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:01:03,10",
+          "Length": "00:00:01,07"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,13",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,17",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:11,08",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:24,07",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:24,10",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:28,19",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:28,21",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:30,22",
+          "Length": "00:00:00,01"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:31,01",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:34,19",
+          "Length": "00:00:00,01"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:35,00",
+          "Length": "00:00:01,14"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "fire_loop_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\molotov\\fire_loop_1.wav",
+          "Start": "00:00:11,10",
+          "Length": "00:00:02,14"
+        },
+        {
+          "Name": "fire_loop_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\molotov\\fire_loop_1.wav",
+          "Start": "00:00:13,00",
+          "Length": "00:00:02,14"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:15,17",
+          "Length": "00:00:01,04"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:16,22",
+          "Length": "00:00:01,03"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:39,03",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:39,07",
+          "Length": "00:00:03,06"
+        },
+        {
+          "Name": "concrete2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete2.wav",
+          "Start": "00:00:43,07",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:45,15",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:45,18",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:54,09",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:54,13",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "WOOSH3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH3.wav",
+          "Start": "00:00:59,13",
+          "Length": "00:00:01,07"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:01:02,14",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:01:03,17",
+          "Length": "00:00:00,21"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,17",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,19",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:01:14,09",
+          "Length": "00:00:02,19"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:24,10",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:24,14",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:01:26,20",
+          "Length": "00:00:04,01"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:31,01",
+          "Length": "00:00:00,01"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:31,06",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:35,01",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:35,05",
+          "Length": "00:00:01,16"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:00:10,16",
+          "Length": "00:00:03,08"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:00:14,02",
+          "Length": "00:00:01,10"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:00:16,00",
+          "Length": "00:00:02,06"
+        },
+        {
+          "Name": "pl_shell1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\pl_shell1.wav",
+          "Start": "00:00:39,09",
+          "Length": "00:00:00,15"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:39,23",
+          "Length": "00:00:03,06"
+        },
+        {
+          "Name": "concrete4",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\footsteps\\concrete4.wav",
+          "Start": "00:00:43,11",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:45,19",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:00:45,23",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "WOOSH2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH2.wav",
+          "Start": "00:00:53,11",
+          "Length": "00:00:01,00"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:54,13",
+          "Length": "00:00:00,08"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:00:55,07",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:00:59,07",
+          "Length": "00:00:02,13"
+        },
+        {
+          "Name": "bulletltor07",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\fx\\nearmiss\\bulletltor07.wav",
+          "Start": "00:01:03,10",
+          "Length": "00:00:00,07"
+        },
+        {
+          "Name": "bulletltor01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\fx\\nearmiss\\bulletltor01.wav",
+          "Start": "00:01:03,21",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,19",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:07,22",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "WOOSH2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH2.wav",
+          "Start": "00:01:13,05",
+          "Length": "00:00:02,06"
+        },
+        {
+          "Name": "WOOSH3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH3.wav",
+          "Start": "00:01:17,09",
+          "Length": "00:00:05,15"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:24,14",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:24,18",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "WOOSH3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH3.wav",
+          "Start": "00:01:28,09",
+          "Length": "00:00:02,17"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:31,06",
+          "Length": "00:00:00,01"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:35,05",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "WOOSH3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH3.wav",
+          "Start": "00:01:35,16",
+          "Length": "00:00:02,09"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:00:13,16",
+          "Length": "00:00:05,23"
+        },
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:00:37,22",
+          "Length": "00:00:02,09"
+        },
+        {
+          "Name": "glock_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_01.wav",
+          "Start": "00:00:40,06",
+          "Length": "00:00:04,15"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:00:45,23",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "WOOSH3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH3.wav",
+          "Start": "00:00:47,16",
+          "Length": "00:00:04,12"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:00:54,21",
+          "Length": "00:00:00,09"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:00:55,07",
+          "Length": "00:00:01,07"
+        },
+        {
+          "Name": "bulletltor08",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\fx\\nearmiss\\bulletltor08.wav",
+          "Start": "00:01:03,03",
+          "Length": "00:00:00,09"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:07,22",
+          "Length": "00:00:00,02"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:08,01",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:24,18",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:24,22",
+          "Length": "00:00:01,13"
+        },
+        {
+          "Name": "inc_grenade_detonate_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\incgrenade\\inc_grenade_detonate_1.wav",
+          "Start": "00:01:30,05",
+          "Length": "00:00:01,15"
+        },
+        {
+          "Name": "c4_beep3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\c4\\c4_beep3.wav",
+          "Start": "00:01:31,21",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "c4_beep3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\c4\\c4_beep3.wav",
+          "Start": "00:01:32,13",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "c4_beep3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\c4\\c4_beep3.wav",
+          "Start": "00:01:33,05",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "c4_beep3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\c4\\c4_beep3.wav",
+          "Start": "00:01:33,21",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "c4_beep3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\c4\\c4_beep3.wav",
+          "Start": "00:01:34,16",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "c4_beep3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\c4\\c4_beep3.wav",
+          "Start": "00:01:36,06",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "c4_disarmfinish",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\c4\\c4_disarmfinish.wav",
+          "Start": "00:01:36,14",
+          "Length": "00:00:01,12"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "WOOSH3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH3.wav",
+          "Start": "00:00:39,10",
+          "Length": "00:00:03,09"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:00:46,01",
+          "Length": "00:00:01,15"
+        },
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:00:51,18",
+          "Length": "00:00:01,17"
+        },
+        {
+          "Name": "WOOSH3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH3.wav",
+          "Start": "00:00:53,20",
+          "Length": "00:00:05,15"
+        },
+        {
+          "Name": "swoosh2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\swoosh2.wav",
+          "Start": "00:01:06,00",
+          "Length": "00:00:02,01"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:08,01",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:08,04",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:24,22",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "fire_ignite_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\molotov\\fire_ignite_1.wav",
+          "Start": "00:01:30,05",
+          "Length": "00:00:02,06"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:00:39,04",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "BLOODY3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\SFX\\BLOODY3.wav",
+          "Start": "00:00:40,01",
+          "Length": "00:00:01,00"
+        },
+        {
+          "Name": "jumplanding",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\jumplanding.wav",
+          "Start": "00:00:46,10",
+          "Length": "00:00:00,23"
+        },
+        {
+          "Name": "glock_slideback",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_slideback.wav",
+          "Start": "00:00:58,22",
+          "Length": "00:00:00,07"
+        },
+        {
+          "Name": "glock_sliderelease",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_sliderelease.wav",
+          "Start": "00:00:59,04",
+          "Length": "00:00:00,08"
+        },
+        {
+          "Name": "bulletltor01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\fx\\nearmiss\\bulletltor01.wav",
+          "Start": "00:01:03,01",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "WOOSH3",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\sfx para\\WOOSH3.wav",
+          "Start": "00:01:06,02",
+          "Length": "00:00:01,23"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:08,05",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:08,08",
+          "Length": "00:00:01,11"
+        },
+        {
+          "Name": "fire_loop_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\molotov\\fire_loop_1.wav",
+          "Start": "00:01:30,14",
+          "Length": "00:00:01,19"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:00:40,01",
+          "Length": "00:00:00,11"
+        },
+        {
+          "Name": "body_impact_fists_02",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\physics\\body\\body_impact_fists_02.wav",
+          "Start": "00:00:46,09",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:08,09",
+          "Length": "00:00:00,03"
+        },
+        {
+          "Name": "m4a1_silencer_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_silencer_01.wav",
+          "Start": "00:01:08,13",
+          "Length": "00:00:01,12"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:15,10",
+          "Length": "00:00:02,01"
+        },
+        {
+          "Name": "ak47_boltpull",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_boltpull.wav",
+          "Start": "00:01:17,15",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "inc_grenade_detonate_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\incgrenade\\inc_grenade_detonate_1.wav",
+          "Start": "00:01:29,15",
+          "Length": "00:00:02,19"
+        }
+      ]
+    },
+    {
+      "Name": "reverb",
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "m4a1_clipout",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_clipout.wav",
+          "Start": "00:00:46,22",
+          "Length": "00:00:00,13"
+        },
+        {
+          "Name": "m4a1_clipin",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_clipin.wav",
+          "Start": "00:00:47,11",
+          "Length": "00:00:00,14"
+        },
+        {
+          "Name": "m4a1_cliphit",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\m4a1\\m4a1_cliphit.wav",
+          "Start": "00:00:47,23",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "pl_shell2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\AdditionalSFX\\Shells\\pl_shell2.wav",
+          "Start": "00:01:08,14",
+          "Length": "00:00:00,04"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:01:08,20",
+          "Length": "00:00:01,08"
+        },
+        {
+          "Name": "headshot1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot1.wav",
+          "Start": "00:01:15,11",
+          "Length": "00:00:01,15"
+        }
+      ]
+    },
+    {
+      "Name": "reverb 2",
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "glock_slideback",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_slideback.wav",
+          "Start": "00:00:58,12",
+          "Length": "00:00:00,09"
+        },
+        {
+          "Name": "glock_clipin",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_clipin.wav",
+          "Start": "00:01:01,06",
+          "Length": "00:00:00,05"
+        },
+        {
+          "Name": "glock_slideback",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_slideback.wav",
+          "Start": "00:01:01,12",
+          "Length": "00:00:00,08"
+        },
+        {
+          "Name": "glock_sliderelease",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\glock18\\glock_sliderelease.wav",
+          "Start": "00:01:01,21",
+          "Length": "00:00:00,12"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:01:07,09",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "headshot2",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\headshot2.wav",
+          "Start": "00:01:08,01",
+          "Length": "00:00:00,18"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:01:08,20",
+          "Length": "00:00:00,10"
+        },
+        {
+          "Name": "bhit_helmet-1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\player\\bhit_helmet-1.wav",
+          "Start": "00:01:15,11",
+          "Length": "00:00:00,10"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "fire_ignite_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\molotov\\fire_ignite_1.wav",
+          "Start": "00:01:08,09",
+          "Length": "00:00:02,17"
+        },
+        {
+          "Name": "ak47_01",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\ak47\\ak47_01.wav",
+          "Start": "00:01:15,00",
+          "Length": "00:00:02,01"
+        }
+      ]
+    },
+    {
+      "Name": null,
+      "MediaType": "Audio",
+      "MediaElements": [
+        {
+          "Name": "fire_loop_1",
+          "FilePath": "D:\\MovieMaking\\SoundsFX\\New Sounds CSGO\\weapons\\molotov\\fire_loop_1.wav",
+          "Start": "00:01:08,07",
+          "Length": "00:00:01,22"
+        }
+      ]
+    }
+  ]
+}
